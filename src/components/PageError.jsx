@@ -1,6 +1,8 @@
 import React from "react"
 import "./style/PageError.css"
 
+
+
 const PageError = (props) =>{
   return(
     <div className="PageError">
