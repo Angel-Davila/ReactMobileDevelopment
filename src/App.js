@@ -8,6 +8,7 @@ import BadgeDetails from "./components/BadgeDetails"
 import NotFound from "./pages/NotFound/NotFound"
 import EditBadge from "./pages/EditBadge/EditBadge";
 
+
 function App() {
   return (
     <BrowserRouter>
